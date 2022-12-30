@@ -1,5 +1,3 @@
-# Web Scraping Readme.md
-
 # Web Scraping and API in Python
 
 Python project for integrations with different API and web scraping with BeautifulSoup and HTML-requests libraries for multiple scraping projects such as Youtube, dynamically generated Javascript for SounCloud and many more.
