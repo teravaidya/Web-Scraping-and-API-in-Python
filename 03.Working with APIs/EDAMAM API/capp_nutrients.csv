@@ -1,0 +1,34 @@
+,label,quantity,unit
+ENERC_KCAL,Energy,281.4591105118397,kcal
+FAT,Total lipid (fat),13.521597831618529,g
+FASAT,"Fatty acids, total saturated",8.319197967512578,g
+FATRN,"Fatty acids, total trans",0.0,g
+FAMS,"Fatty acids, total monounsaturated",3.832147156741181,g
+FAPU,"Fatty acids, total polyunsaturated",0.5727023011075305,g
+CHOCDF,"Carbohydrate, by difference",17.938429124319462,g
+CHOCDF.net,Carbohydrates (net),17.87776245767331,g
+FIBTG,"Fiber, total dietary",0.06066666664615282,g
+SUGAR,"Sugars, total",16.826818141825946,g
+PROCNT,Protein,2.5734904145757986,g
+CHOLE,Cholesterol,49.44692023745784,mg
+NA,"Sodium, Na",81.13880280414645,mg
+CA,"Calcium, Ca",17.13720257892917,mg
+MG,"Magnesium, Mg",6.504337356063415,mg
+K,"Potassium, K",97.9223946891566,mg
+FE,"Iron, Fe",0.13368269341364075,mg
+ZN,"Zinc, Zn",0.17127619245600767,mg
+P,"Phosphorus, P",47.537025655990554,mg
+VITA_RAE,"Vitamin A, RAE",147.44235835197412,µg
+VITC,"Vitamin C, total ascorbic acid",0.17884713874704128,mg
+THIA,Thiamin,0.030266987985054904,mg
+RIBF,Riboflavin,0.1564736849186577,mg
+NIA,Niacin,0.34097395495493005,mg
+VITB6A,Vitamin B-6,0.011303547953986122,mg
+FOLDFE,"Folate, DFE",4.762277866590048,µg
+FOLFD,"Folate, food",4.762277866590048,µg
+FOLAC,Folic acid,0.0,µg
+VITB12,Vitamin B-12,0.06849198049983912,µg
+VITD,Vitamin D (D2 + D3),0.0006249999997780956,µg
+TOCPHA,Vitamin E (alpha-tocopherol),0.39789332374964503,mg
+VITK1,Vitamin K (phylloquinone),1.250347767498946,µg
+WATER,Water,180.54453888735566,g
